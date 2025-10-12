@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Autumn 
 
-<!--
-**autumn024/autumn024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+I am currently a Computer Science undergraduate, graduating in December 2025. Throughout my academic journey, I’ve built SQL databases, led full Software Development Life Cycle (SDLC) projects, and conducted statistical analyses using Excel, Python, StatCrunch, and Jupyter Notebook. I’ve also worked on projects involving Java, JavaScript, HTML, and React—designing responsive web pages and interactive user experiences.
 
-Here are some ideas to get you started:
+Outside of tech, I’ve coached competitive dance for several years, which shaped my leadership style and inspired my senior capstone: an interactive Tableau dashboard analyzing four years of team performance. This project blends my strengths in data storytelling, user-centered design, and making insights accessible to non-technical audiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Personal Projects 
+- Pet Store Database Using Microsoft SQL Server Management
+- Visualizations created in Juypter Notebook and Python
+- Excel projects 
+- Food Review Wesbite using Java and React 
+
+
+
+
