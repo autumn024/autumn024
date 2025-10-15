@@ -7,9 +7,9 @@ Outside of tech, I’ve coached competitive dance for several years, which shape
 
 ## My Personal Projects 
 - Pet Store Database Using Microsoft SQL Server Management
-- Visualizations created in Juypter Notebook and Python
 - Excel projects 
-- Food Review Wesbite using Java and React 
+- Food Review Wesbite using Java and React
+- Visualizations created in Juypter Notebook and Python
 
 
 
